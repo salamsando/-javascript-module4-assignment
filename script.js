@@ -29,7 +29,7 @@ console.log(student.course);
 
 
 let students = [
-  { name: "Yaslam", age: 20, course: "Computer Engineering" }
+  { name: "Yaslam", age: 20, course: "Computer Engineering" },
   { name: "Stephen", age: 19, course: "Statistics" },
   { name: "Yaw", age: 22, course: "Food Science" }
 ];
@@ -52,5 +52,6 @@ let studentWithMethod = {
 };
 
 studentWithMethod.greet();
+
 
 
